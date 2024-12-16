@@ -40,7 +40,7 @@ for _ in range(count):
     response = requests.post(url, json=data, headers=headers)
 
     # Перевірка статусу відповіді
-    if response.status_code == 200:
+    if response.status_code == 200 or response.status_code == 201:
         print('Запит успішно виконаний')
         print('Відповідь:', response.json())  # Якщо відповідь у форматі JSON
     else:
