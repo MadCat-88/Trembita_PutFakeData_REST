@@ -28,7 +28,14 @@
 ```bash
    git clone https://github.com/kshypachov/PutFakeData.git
 ```
-2. Перерйти до директорії зі скриптом:
+
+2. Встановити віртуальне середовище
+ 
+```bash 
+sudo apt install python3.12-venv
+```
+
+3. Перерйти до директорії зі скриптом:
 
 ```bash
    cd PutFakeData
