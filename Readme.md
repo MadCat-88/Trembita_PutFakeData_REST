@@ -26,7 +26,7 @@
 1.  Скопіювати репозиторій:
 
 ```bash
-   git clone https://github.com/kshypachov/PutFakeData.git
+git clone https://github.com/kshypachov/PutFakeData.git
 ```
 
 2. Встановити віртуальне середовище
@@ -38,24 +38,24 @@ sudo apt install python3.12-venv
 3. Перерйти до директорії зі скриптом:
 
 ```bash
-   cd PutFakeData
+cd PutFakeData
 ```
 
 3. Створити та активувати віртуальне середовище:
 
 ```bash
-   python3 -m venv venv
-   source venv/bin/activate   # Для Windows: venv\Scripts\activate
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 4. Встановити необхідні залежності:
 
 ```bash
-   pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 5. Запустити скрипт:
 ```bash
-   python3 main.py
+python3 main.py
 ```
 
 ## Опис змінних
