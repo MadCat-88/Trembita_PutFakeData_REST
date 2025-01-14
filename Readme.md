@@ -26,7 +26,7 @@
 1.  Скопіювати репозиторій:
 
 ```bash
-git clone https://github.com/kshypachov/PutFakeData.git
+git clone https://github.com/MadCat-88/Trembita_PutFakeData_Rest.git
 ```
 
 2. Встановити віртуальне середовище
