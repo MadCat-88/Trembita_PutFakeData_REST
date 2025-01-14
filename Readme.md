@@ -35,7 +35,7 @@ git clone https://github.com/MadCat-88/Trembita_PutFakeData_Rest.git
 sudo apt install python3.12-venv
 ```
 
-3. Перерйти до директорії зі скриптом:
+3. Перейти до директорії зі скриптом:
 
 ```bash
 cd PutFakeData
