@@ -38,7 +38,7 @@ sudo apt install python3.12-venv
 3. Перейти до директорії зі скриптом:
 
 ```bash
-cd PutFakeData
+cd Trembita_PutFakeData_Rest
 ```
 
 3. Створити та активувати віртуальне середовище:
