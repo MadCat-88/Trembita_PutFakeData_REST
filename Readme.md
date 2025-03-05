@@ -23,16 +23,16 @@
 
 ## Встановлення
 
-1.  Скопіювати репозиторій:
+1. Встановити необхідні бібліотеки та залежності:
+
+```bash
+sudo apt install python3-pip
+```
+
+2. Клонувати репозиторій:
 
 ```bash
 git clone https://github.com/MadCat-88/Trembita_PutFakeData_Rest.git
-```
-
-2. Встановити віртуальне середовище
- 
-```bash 
-sudo apt install python3.12-venv
 ```
 
 3. Перейти до директорії зі скриптом:
@@ -41,18 +41,12 @@ sudo apt install python3.12-venv
 cd Trembita_PutFakeData_Rest
 ```
 
-3. Створити та активувати віртуальне середовище:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
 4. Встановити необхідні залежності:
 
 ```bash
 pip3 install -r requirements.txt
 ```
+
 5. Запустити скрипт:
 ```bash
 python3 main.py
