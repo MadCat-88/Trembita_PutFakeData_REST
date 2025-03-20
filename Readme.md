@@ -25,8 +25,8 @@
 1. Клонувати репозиторій та перейти в директорії зі скрпитом
 
 ```bash
-git clone https://github.com/MadCat-88/Trembita_PutFakeData_Rest.git
-cd Trembita_PutFakeData_Rest
+git clone https://github.com/kshypachov/PutFakeData.git
+cd PutFakeData
 ```
 
 **Примітка** У випадку, якщо вебсервіс розгорнуто в Docker, перед виконанням наступних кроків необхідно встановити віртуальне середовище за допомогою команди:
